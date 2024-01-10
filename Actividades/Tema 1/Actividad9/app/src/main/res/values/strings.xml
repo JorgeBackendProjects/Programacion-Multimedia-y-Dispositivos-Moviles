@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad9</string>
+    <string name="inicia_servicio">inicia Servicio</string>
+    <string name="detener_servicio">Detener Servicio</string>
+</resources>

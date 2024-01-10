@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".frag1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/fondoFrag1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F1DE35"
+        android:textAllCaps="false"
+        android:textColorHighlight="@color/purple_700" />
+
+    <TextView
+        android:id="@+id/textoPrincipalFrag1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:paddingStart="120dp"
+        android:paddingTop="300dp"
+        android:rotationY="1"
+        android:text="@string/textoPrincipalFrag1" />
+
+</FrameLayout>

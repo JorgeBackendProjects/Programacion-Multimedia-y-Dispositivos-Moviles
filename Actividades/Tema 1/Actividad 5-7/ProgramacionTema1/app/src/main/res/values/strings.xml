@@ -1,0 +1,6 @@
+<resources>
+    <string name="botonPrincipal">Púlsame</string>
+    <string name="TextoPrincipal">Mi actividad</string>
+    <string name="ImagenJava">ImagenPrincipal</string>
+    <string name="Titulo">Mi Aplicacion</string>
+</resources>

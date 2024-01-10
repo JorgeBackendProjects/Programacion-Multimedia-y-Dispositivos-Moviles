@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenTema2</string>
+    <string name="inserta_una_entrada">Inserta una entrada...</string>
+    <string name="seccion">Sección</string>
+    <string name="butaca">Butaca</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+</resources>

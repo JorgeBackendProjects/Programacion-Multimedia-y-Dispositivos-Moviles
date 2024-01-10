@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/mainString"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mainString" />
+
+    <Button
+        android:id="@+id/mapaButton"
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:onClick="abrirMapa"
+        android:text="Abrir el mapa" />
+
+    <Button
+        android:id="@+id/camaraButton"
+        android:layout_width="195dp"
+        android:layout_height="50dp"
+        android:onClick="abrirCamara"
+        android:text="Abrir Camara" />
+
+    <Button
+        android:id="@+id/navegadorWebbutton"
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:onClick="abrirNavegador"
+        android:text="@string/navegadorWebButton" />
+
+    <Button
+        android:id="@+id/convertButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="cambiaActividad"
+        android:text="@string/convertButton" />
+
+    <Button
+        android:id="@+id/contactsButton"
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:onClick="mostrarContactos"
+        android:text="Mostrar Contactos" />
+
+    <Button
+        android:id="@+id/telefonoButton"
+        android:layout_width="197dp"
+        android:layout_height="wrap_content"
+        android:onClick="abrirTelefono"
+        android:text="Abrir Telefono" />
+
+    <Button
+        android:id="@+id/mensajeButton"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:onClick="escribirMensaje"
+        android:text="Enviar Mensaje" />
+
+</LinearLayout>

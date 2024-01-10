@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PrácticaTema2</string>
+    <string name="abrir_notas">Abrir notas</string>
+    <string name="fecha_y_hora">Fecha y Hora</string>
+    <string name="descripcion">Descripción</string>
+    <string name="numero_de_telefono">Número de teléfono</string>
+    <string name="titulo">Título</string>
+    <string name="visualizar_nota">Visualizar Nota</string>
+    <string name="n_mero_de_tel_fono">Número de teléfono</string>
+    <string name="crear_nota">Crear nota</string>
+    <string name="escribir_sms">Escribir SMS</string>
+    <string name="llamar">Llamar</string>
+    <string name="nueva_nota">Nueva nota</string>
+    <string name="crear_base_de_datos">Crear Base de datos</string>
+    <string name="atr_s">Atrás</string>
+    <string name="editar">Editar</string>
+    <string name="atras">Atrás</string>
+    <string name="sms">SMS</string>
+    <string name="borrar">Borrar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="guardar">Guardar</string>
+</resources>

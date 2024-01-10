@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividad14</string>
+    <string name="mainString">Esta es la actividad principal</string>
+    <string name="convertButton">Cambiar Actividad</string>
+    <string name="secondAString">Esta es la SEGUNDA ACTIVIDAD</string>
+    <string name="navegadorWebButton">Abrir Navegador Web</string>
+</resources>

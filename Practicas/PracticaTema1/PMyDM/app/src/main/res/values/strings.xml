@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMyDM</string>
+    <string name="abrir_notas">Abrir notas</string>
+    <string name="fecha_y_hora">Fecha y Hora</string>
+    <string name="descripcion">Descripción</string>
+    <string name="numero_de_telefono">Número de teléfono</string>
+    <string name="titulo">Título</string>
+    <string name="visualizar_nota">Visualizar Nota</string>
+</resources>
